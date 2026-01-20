@@ -1,27 +1,36 @@
-> 依照過往資料，用戶在一年之中、一天之中最活躍的時段是何時？在這些時段推出促銷方案以刺激平台上的課程買氣
+### Based on historical data, when are users most active throughout the year and within a day? 
 
-一、思考
-1. 於在線瀏覽量高之時段密集推播廣告 → 因缺少瀏覽數據暫且不做討論
-2. 分析訂單交易頻繁時段 → 將分析結果視為用戶購物傾向高之時段,
-建議於此時推播行銷活動最有成效
-    1. 中期：一年當中哪些節日或月份(如開學季、寒暑假)
-    2. 短期：一週間、一天當中哪些時段(如主要用戶上班族與大學生之習慣上網時間)
-    
-二、數據發現
+## Goal
+Launch promotions during these high-activity periods to stimulate course purchases on the platform.
 
-1. **各年度各月份** 
-   ![by year and month](6-year%20overall%20-%20by%20year%20and%20month.png)
-   - 訂單數量逐年成長 
-   - 3,5,6,10,12月為暢銷月份。可能原因：開學後或暑期/新年新希望的進修計畫
-   
+## Thought Process
+1. #### High-traffic browsing periods
+   Push ads intensively during peak browsing hours. <br>
+   → Not discussed here due to the lack of browsing data.
 
-2. **週間週末日與各時段**
-   ![by day of week and hour of day](6-year%20overall%20-%20by%20day%20of%20week%20and%20hour%20of%20day.png)
-    - 上班日的訂單數量高於週末休假日
-    - 晚上21-24點的下單較熱烈
-   
-三、行銷建議
-1. 推送廣告：針對用戶所收藏的課程，進行專屬推薦
-2. 驅動回購：每筆訂單回饋5%站上虛擬幣，而非直接折扣，促進回購
+2. #### High-frequency transaction periods
+   Analyze periods with frequent order transactions and treat them as times when users have a higher purchase intent. Marketing campaigns are expected to be most effective when launched during these periods.
+   - **Mid-term**: Key months or holidays within a year (e.g., back-to-school season, summer/winter breaks)
+   - **Short-term**: Key periods within a week or a day (e.g., typical online activity times of office workers and college students)
+
+
+## Data Insights
+### 1. **By Year and Month** 
+![by year and month](6-year%20overall%20-%20by%20year%20and%20month.png)
+- Order volume shows year-over-year growth.
+- March, May, June, October, December are peak months. Possible reasons include back-to-school period or New Year–driven learning plans.
+
+### 2. **By Day of Week and Hour of Day** 
+![by day of week and hour of day](6-year%20overall%20-%20by%20day%20of%20week%20and%20hour%20of%20day.png)
+- Order volume on weekdays is higher than on weekends.
+- Purchasing activity is most active between 9 PM and 12 AM.
+
+## Marketing Recommendations
+1. #### Ad targeting
+   Push personalized recommendations based on the courses the users have saved.
+2. #### Repeat purchase incentives**
+   Offer 5% of each order as platform virtual credits instead of direct discounts, encouraging future purchases.
+
+
 
 
