@@ -28,7 +28,7 @@ Launch promotions during these high-activity periods to stimulate course purchas
 ## Marketing Recommendations
 1. #### Ad targeting
    Push personalized recommendations based on the courses the users have saved.
-2. #### Repeat purchase incentives**
+2. #### Repeat purchase incentives
    Offer 5% of each order as platform virtual credits instead of direct discounts, encouraging future purchases.
 
 
